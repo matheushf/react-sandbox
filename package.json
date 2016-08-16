@@ -1,0 +1,29 @@
+{
+  "name": "react-starter",
+  "version": "1.0.0",
+  "description": "starter react app ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheushf/react-starter.git"
+  },
+  "keywords": [
+    "react",
+    "jsx",
+    "javascript"
+  ],
+  "author": "matheushf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheushf/react-starter/issues"
+  },
+  "homepage": "https://github.com/matheushf/react-starter#readme",
+  "devDependencies": {
+    "babel-cli": "^6.10.1",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.5.0"
+  }
+}
